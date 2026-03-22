@@ -7,22 +7,22 @@
 <ul>
 <li>
 <b>
-📚 Nome e objetivo do sistema:
+Nome e objetivo do sistema:
 </b> possibilitar ao usuário o cálculo de consumo mensal em R$/kWh de um eletroméstico
 </li>
 <li>
 <b>
-📚 Fórmula utilizada para o cálculo de consumo mensal: 
+Fórmula utilizada para o cálculo de consumo mensal: 
 </b> (potencia * horasDia * 30) / 1000
 </li>
 <li>
 <b>
-📚 Fórmula utilizada para o cálculo do custo estimado em R$/kWh: 
+Fórmula utilizada para o cálculo do custo estimado em R$/kWh: 
 </b> (consumo) * Valor fixo em R$/kWh 
 </li>
 <li>
 <b>
-📚 Instruções para realizar o cálculo: 
+Instruções para realizar o cálculo: 
 </b>
 <ol>
 1. Digite o nome do eletrodoméstico
