@@ -8,7 +8,7 @@
 <li>
 <b>
 Nome e objetivo do sistema:
-</b> possibilitar ao usuário o cálculo de consumo mensal em R$/kWh de um eletroméstico
+</b> possibilitar ao usuário o cálculo de consumo mensal em R$/kWh de um eletrodoméstico
 </li>
 <li>
 <b>
